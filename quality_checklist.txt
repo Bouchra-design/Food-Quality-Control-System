@@ -1,0 +1,12 @@
+Food Quality Control Checklist
+
+1. Verify sample label: Sample ID, Product, Date, Batch
+2. Check expiry date and packaging integrity
+3. Record storage/transport temperature (°C)
+4. Measure pH and record value
+5. Measure moisture content or water activity (if applicable)
+6. Perform microbiological screening (if available)
+7. Compare results to standard thresholds
+8. Mark sample: Conform / Non-conform
+9. Record notes and reasons for non-conformity
+10. Store raw data in data_example.csv and prepare a short note for non-conform samples
