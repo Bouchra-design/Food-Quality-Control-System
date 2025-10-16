@@ -1,0 +1,4 @@
+Sample ID,Product,Temperature (°C),pH,Result,Date,Notes
+FQ001,Yogurt,4,4.5,Conform,2025-10-12,
+FQ002,Milk,7,6.8,Non-conform,2025-10-12,High temp during transport
+FQ003,Cheese,5,5.2,Conform,2025-10-13,
